@@ -2,6 +2,9 @@ package com.zjm.dto;
 
 import java.io.Serializable;
 
+/**
+ * test
+ */
 public class UserDto implements Serializable {
     private Integer id;
     private String name;
