@@ -1,0 +1,15 @@
+com\zjm\my\shop\response\ClientRegisterQuantityResp.class
+com\zjm\my\shop\response\ClientRegisterQuantityResp$RegisterClient.class
+com\zjm\my\shop\request\GetSecondaryDistributorShopIdReq.class
+com\zjm\my\shop\request\ClientRegisterQuantityReq.class
+com\zjm\my\shop\response\GetPayAmountResp.class
+com\zjm\my\shop\response\GetPayAmountResp$PayAmount.class
+com\zjm\dubbo\consumer\controller\UserController.class
+com\zjm\my\shop\request\GetPerTicketSalesReq.class
+com\zjm\my\shop\response\GetSecondaryDistributorShopIdResp.class
+com\zjm\ConsumerApplication.class
+com\zjm\my\shop\GetTotalAmountReqDto.class
+com\zjm\my\shop\response\GetPerTicketSalesResp$PerTicketSales.class
+com\zjm\my\shop\request\GetPayAmountReq.class
+com\zjm\my\Test.class
+com\zjm\my\shop\response\GetPerTicketSalesResp.class

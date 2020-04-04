@@ -1,0 +1,14 @@
+server:
+  port: 8083
+dubbo:
+  application:
+    id: dubbo-consumer
+    name: dubbo-consumer #应用名称
+  registry:
+    address: zookeeper://127.0.0.1:5181 #zookeeper地址
+  protocol:
+    name: dubbo #dubbo协议
+  scan:
+    base-packages: com.zjm.dubbo.consumer.controller
+  consumer:
+    check: false

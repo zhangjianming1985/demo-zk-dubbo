@@ -1,0 +1,13 @@
+server:
+  port: 8082
+dubbo:
+  application:
+    id: dubbo-provider
+    name: dubbo-provider #应用名称
+  registry:
+    address: zookeeper://127.0.0.1:5181 #zookeeper地址
+  protocol:
+    name: dubbo #dubbo协议
+    port: 6181 #dubbo端口
+  scan:
+    base-packages: com.zjm.service.impl
